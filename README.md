@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Lad
 
-<!--
-**Abhishek-42/abhishek-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ AWS & Cloud Enthusiast  
+🎓 CS Engineering Student  
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build and deploy cloud-based applications  
+- Automate AWS using scripts  
+- Explore scalable system design  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- ☁️ AWS: EC2, S3, IAM, VPC  
+- 🐍 Python (Boto3 for AWS automation)  
+- 🌐 JavaScript  
+
+## 🌱 Currently Learning
+- Advanced AWS Architecture  
+- DevOps & CI/CD  
+- Cloud Security  
+
+## 📫 Connect
+- GitHub: https://github.com/your-username
+
+---
+⚡ Focused on becoming a Cloud Engineer
