@@ -22,4 +22,3 @@
 - GitHub: https://github.com/your-username
 
 ---
-⚡ Focused on becoming a Cloud Engineer
