@@ -18,7 +18,4 @@
 - DevOps & CI/CD  
 - Cloud Security  
 
-## 📫 Connect
-- GitHub: https://github.com/your-username
-
 ---
